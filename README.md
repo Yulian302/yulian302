@@ -52,23 +52,3 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Yulian302?theme=dark&font=Noto%20Sans)
 
----
-
-### 📈 GitHub Metrics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Yulian302&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yulian302&theme=radical" />
-</p>
-
----
-
-### 📫 Let's Connect!
-
-- 📍 Based in Sterling Heights, Michigan (Open to Relocation)
-- 💼 Open to new opportunities (No visa sponsorship required)
-- ✉️ Reach me at: bohomolyulian3022003@gmail.com
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YulianBohomol&label=Profile%20views&color=0e75b6&style=flat" alt="YulianBohomol" /> 
-</p>
