@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yulian Bohomol</h1>
-<h3 align="center">Software Engineer | Python/TypeScript Specialist | Cloud Enthusiast</h3>
+<h3 align="center">Software Engineer | Python/TypeScript/Go Specialist | Cloud Enthusiast</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/ybohomol" target="_blank">
