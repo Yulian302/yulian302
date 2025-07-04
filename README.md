@@ -47,7 +47,7 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[QugoPy](https://github.com/Yulian302/qugopy)** | Smart Highly-Efficient Task Scheduler | Go, Python, Redis |
+| **[QugoPy](https://github.com/Yulian302/qugopy)** | Smart Highly-Efficient Task Scheduler | Go, Python, Redis, (Gin, Cobra, REST, gRPC) |
 | **[NeoAI](https://github.com/Yulian302/neoai)** | ML platform for medical image analysis | Django/FastAPI, React, AWS |
 | **[NeoLiveChat](https://github.com/Yulian302/neo-livechat)** | Real-time chat with WebSockets | FastAPI, React |
 
