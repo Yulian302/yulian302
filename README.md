@@ -47,6 +47,7 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| **[LFU Sys](https://github.com/Yulian302/lfusys)** | Scalable distributed large file upload system | Go (REST, gRPC), Docker, AWS (S3, DynamoDB, EC2), Terraform, React (TS) |
 | **[QugoPy](https://github.com/Yulian302/qugopy)** | Smart Highly-Efficient Task Scheduler | Go, Python, Redis, (Gin, Cobra, REST, gRPC) |
 | **[NeoAI](https://github.com/Yulian302/neoai)** | ML platform for medical image analysis | Django/FastAPI, React, AWS |
 | **[NeoLiveChat](https://github.com/Yulian302/neo-livechat)** | Real-time chat with WebSockets | FastAPI, React |
