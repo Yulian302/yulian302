@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yulian Bohomol</h1>
-<h3 align="center">Software Engineer | Python/TypeScript/Go Specialist | Cloud Enthusiast</h3>
+<h3 align="center">Software Engineer | Go/Python/TypeScript Specialist | Cloud Enthusiast</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/ybohomol" target="_blank">
@@ -18,8 +18,8 @@
 ### 🛠️ Technical Toolkit
 
 **Languages & Frameworks**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-1.22+-00ADD8?logo=go)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
